@@ -5,6 +5,12 @@ h1{
 h2{
     text-align: center;
 }
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
 body{
     background-color: gray;
 }
@@ -16,7 +22,7 @@ div{
 li{
     text-align: center;
     border: 3px solid black;
-    margin: 20px;
+    margin: 25px;
 }
 img{
     width: 450px;
