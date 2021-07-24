@@ -1,21 +1,15 @@
 h1{
     color: aqua;
-    text-align: center;
+    text-align: left;
 }
 h2{
     text-align: center;
 }
-h3{
-    text-align: center;
-}
-h4{
-    text-align: center;
-}
 body{
-    background-color: gray;
+    background-color: whitesmoke;
 }
 div{
-    color: rgb(14, 250, 14);
+    color: rgb(33, 34, 33);
    text-align: center;
    display: block;
 }
@@ -34,10 +28,22 @@ span{
     font-weight: bolder;
 }
 a:link{
-    background-color: blueviolet;
-    padding: 2.5px;
+    background-color: red;
 }
 a:hover{
     background-color: royalblue;
     padding: 2px;
+}
+.main{
+    flex-direction: column;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+
+}
+.right{
+    text-align: right;
 }
