@@ -16,6 +16,9 @@ h3{
     font-weight: 600;
     font-style: italic;
 }
+.paragraph{
+    color: brown;
+}
 li{
     text-align: center;
     border: 2px solid black;
