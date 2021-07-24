@@ -1,17 +1,17 @@
-h1{
-    color: aqua;
-    text-align: left;
-}
-h2{
+.flex{
+    display: flex;
+    justify-content: space-between;
     text-align: center;
+    background-color: indianred;
 }
-body{
-    background-color: whitesmoke;
+.nature{
+    width: 250px;
+    height: 100px;
 }
-div{
-    color: rgb(33, 34, 33);
-   text-align: center;
-   display: block;
+h3{
+    text-align: center;
+    font-weight: 600;
+    font-style: italic;
 }
 li{
     text-align: center;
@@ -28,13 +28,13 @@ span{
     font-weight: bolder;
 }
 a:link{
-    background-color: red;
+    background-color:grey;
 }
 a:hover{
     background-color: royalblue;
     padding: 2px;
 }
-.main{
+.h1{
     flex-direction: column;
 }
 .left{
