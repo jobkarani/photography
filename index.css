@@ -5,6 +5,12 @@ h1{
 h2{
     text-align: center;
 }
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
 body{
     background-color: gray;
 }
@@ -16,22 +22,22 @@ div{
 li{
     text-align: center;
     border: 3px solid black;
-    margin: 20px;
+    margin: 25px;
 }
 img{
     width: 450px;
     height: 350px;
 }
 span{
-    color: blue;
+    color:orangered;
     display: inline;
     font-weight: bolder;
 }
 a:link{
     background-color: blueviolet;
-    padding: 2px;
+    padding: 2.5px;
 }
 a:hover{
-    background-color: red;
+    background-color: royalblue;
     padding: 2px;
 }
