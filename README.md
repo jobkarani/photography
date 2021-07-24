@@ -7,6 +7,8 @@ my first project
 {Was unable to add more commits. }
 ## Technologies Used
 {HTML, CSS}
+## Setup/installation Requirements
+{Live link to view the project <a href="https://jobkarani.github.io/photography/">View Photography</a>}
 ### License
 Copyright (c) {2021} **{Jobkarani}**
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
